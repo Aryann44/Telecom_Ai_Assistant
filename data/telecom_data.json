@@ -1,0 +1,88 @@
+{
+
+  "customers": [
+
+    {
+
+      "customer_id": "BS1001",
+
+      "name": "Customer One",
+
+      "account_status": "ACTIVE",
+
+      "service_type": "FTTH",
+
+      "service_status": "ACTIVE",
+
+      "network_status": "OPERATIONAL",
+
+      "router_status": "OFFLINE",
+
+      "ticket_status": "NONE"
+
+    },
+
+    {
+
+      "customer_id": "BS1002",
+
+      "name": "Customer Two",
+
+      "account_status": "ACTIVE",
+
+      "service_type": "FTTH",
+
+      "service_status": "ACTIVE",
+
+      "network_status": "OUTAGE",
+
+      "router_status": "ONLINE",
+
+      "ticket_status": "NONE"
+
+    },
+
+    {
+
+      "customer_id": "BS1003",
+
+      "name": "Customer Three",
+
+      "account_status": "SUSPENDED",
+
+      "service_type": "FTTH",
+
+      "service_status": "INACTIVE",
+
+      "network_status": "OPERATIONAL",
+
+      "router_status": "ONLINE",
+
+      "ticket_status": "NONE"
+
+    },
+
+    {
+
+      "customer_id": "BS1004",
+
+      "name": "Customer Four",
+
+      "account_status": "ACTIVE",
+
+      "service_type": "FTTH",
+
+      "service_status": "ACTIVE",
+
+      "network_status": "OPERATIONAL",
+
+      "router_status": "ONLINE",
+
+      "ticket_status": "NONE"
+
+    }
+
+  ]
+
+}
+ 
