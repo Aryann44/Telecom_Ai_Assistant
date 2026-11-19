@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Telecom AI Troubleshooting Assistant
 
 ## Objective
@@ -30,3 +31,7 @@ A Python-based telecom troubleshooting prototype.
 
 python main.py
  
+=======
+# Telecom_Ai_Assistant
+An Agentic Ai use for troubleshooting in telecom data base 
+>>>>>>> 6a1aa439aa3b65e29bdde074054cb4678cf32cd5
